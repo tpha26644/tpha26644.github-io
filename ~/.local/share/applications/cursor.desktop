@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Cursor AI IDE
+Comment=AI-Powered Code Editor
+Exec=/home/ubuntu/.local/bin/cursor.AppImage --no-sandbox
+Icon=utilities-terminal
+Type=Application
+Categories=Development;IDE;
+StartupWMClass=cursor
